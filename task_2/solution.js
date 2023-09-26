@@ -5,8 +5,7 @@ function calcShipping(sum, min, shipping) {
 
     // Задание №2.1. Рассчитать доставку
 
-    // создайте переменную shippingSum
-
+    let shippingSum   // создайте переменную shippingSum
     // если productsSum равно 0,
     // то shippingSum присвоить значение 0
 
